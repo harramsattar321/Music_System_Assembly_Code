@@ -27,7 +27,9 @@ This project contains MASM Assembly code that uses the Windows PlaySound functio
    ```bash
    git clone <repository_url>
    cd <repository_directory>
-   **************************************************
+   
+### Usage Example
+**************************************************
 *                                                *
 *                 MUSIC SYSTEM                   *
 *                                                *
@@ -50,4 +52,3 @@ Enter 3 for Closing the Music Player
 Enter the number of the song you want to play: 1
 Playing: Ring My Bells
 ...
-
